@@ -2,8 +2,6 @@
 
 A hands-on project built during the **NextWave GenAI Workshop**, showcasing practical applications of Generative AI — including chatbot integration, tooltips for learning highlights, and a dynamic, responsive UI.
 
-![Preview](https://i.postimg.cc/xC6j34Q2/moba.png)
-
 ## 🧠 What It Includes
 
 - 🧍‍♂️ **Profile Section** – A snapshot of the creator with personal and technical details.
