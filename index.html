@@ -4,10 +4,7 @@
 <head>
     <script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.39.0/gradio.js"></script>
 </head>
-<title>
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
-</title>
+
 <body>
     <div class="main-container" id="main">
         <div class="description-container">
@@ -188,7 +185,10 @@
             </div>
         </div>
         <div class="chat-bot-container">
-            <gradio-app src="https://mobaa-chatbot.hf.space/"></gradio-app>
+            <script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/5.33.0/gradio.js"></script>
+            <iframe src="https://mobaa-chatbot.hf.space" frameborder="0" style="top: 0; border: none; width: 58vh; height: 100vh; display: block;">
+            </iframe>
+
         </div>
         <div class="footer-section footer-mobile">
             <div class="footer-info">
